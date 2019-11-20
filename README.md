@@ -1,4 +1,4 @@
-# Mandelbrot Visualizer
+# Mandelbrot Visualization in Elixir
 > The project was done for a course in functional programming at KTH. It is completely written in Elixir, a functional language.
 
 The Mandelbrot set is a set of complex numbers received from iterating a function until convergence. It is often visualized with hypnotic zooming that dives infinitely deep into the set. The project is entirely written in Elixir, a functional programming language based on Erlang. 

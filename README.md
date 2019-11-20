@@ -5,7 +5,7 @@ The Mandelbrot set is a set of complex numbers received from iterating a functio
 
 
 <p align="center">
-  <img src="./images/3.png" />
+  <img src="./Images/3.png" />
 </p>
 
 ## Usage example

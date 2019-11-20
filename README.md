@@ -9,7 +9,7 @@ The Mandelbrot set is a set of complex numbers received from iterating a functio
 </p>
 
 ## Usage example
-To create a simple picture of the Mandelbrot set run the following command.
+To create a simple picture of the Mandelbrot set, run the following command.
 
 ```sh
 elixir mandelgif.ex
